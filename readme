@@ -1,0 +1,18 @@
+sw - swap filenames, for example to reorder numbered files
+Usage: sw [FILENAMES A] [FILENAMES B]
+For example:
+
+  cat 1 2 3 4
+Welcome
+To
+My
+Lair
+  sw 1 2 3 4  3 2 1 4
+  cat 1 2 3 4
+My
+To
+Welcome
+Lair
+
+All arguments are perceived to be filenames,
+exceptions are --help and --version arguments.

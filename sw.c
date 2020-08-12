@@ -18,8 +18,8 @@
 */
 
 #define PROGRAM_NAME "sw"
-#define VERSION_PRIMARY 0
-#define VERSION_SECONDARY 2
+#define VERSION_PRIMARY 1
+#define VERSION_SECONDARY 0
 
 #include <stdlib.h>
 #include <stdio.h>

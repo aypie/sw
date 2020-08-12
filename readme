@@ -16,3 +16,5 @@ Lair
 
 All arguments are perceived to be filenames,
 exceptions are --help and --version arguments.
+
+To build just do "gcc sw.c -o sw".
